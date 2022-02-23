@@ -1,3 +1,6 @@
 # prueba
 Tratando de entender mejor los principios de GIT
-prueba1
+
+prueba 1
+
+prueba 2
